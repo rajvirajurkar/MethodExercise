@@ -21,7 +21,7 @@ namespace MethodExercise
 
 
             Console.WriteLine($"The users name is {name}, he/she like's {color} color." +
-                $"Her/His favorite animal is {animal} and favorite soccer team is {soccerTeamName}");
+                $" Her/His favorite animal is {animal} and favorite soccer team is {soccerTeamName}");
 
 
         }
